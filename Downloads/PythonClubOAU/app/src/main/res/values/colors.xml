@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="color_primary">#e64e40</color>
+    <color name="color_primary_dark">#c94438</color>
+    <color name="activity_main_row_title_color">#cccccc</color>
+
+    <color name="cyan">#00FFFF</color>
+    <color name="cardview_initial_background">#71C3DE</color>
+    <color name="gray">#bdbdbd</color>
+
+</resources>
